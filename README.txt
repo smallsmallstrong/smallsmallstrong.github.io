@@ -1,6 +1,6 @@
-# Personal Blog Page
+### Personal Blog Page
 
-# Resources:
+## Resources:
 
 Read Only by HTML5 UP
 html5up.net | @ajlkn
